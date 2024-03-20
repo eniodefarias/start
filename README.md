@@ -1,17 +1,8 @@
 <p align="center">
-  <img src="icone/logo_super_2_circle.png" width="120" title="supervisão" alt="Supervisao Contabilidade e Consultoria">  
+  <img src="https://lh4.googleusercontent.com/RuD7HbTficRN055V9jks9qGSy_X9QdAHoiQ0UChzF6SYp-TjbAtpRgBI2iEBE6px594Zao-s03EuzNv88HtuNEbmLEOe1_UIz1NFjvgvx1BlR3F6=w1280" width="120" title="" alt="">  
 </p>
 
----
 
-# Relatório de projetos
-
-## atualizado em 08/05/2023
-<a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQzWIXr6naVTXDIxoWYSsprs8w9ymNUVWulqrH_1VgjXad0DZcvVbe5stCbSTx2pSp4WlayAbWewn8p/pubhtml?gid=2033168620&amp;single=true&amp;widget=true&amp;headers=false">
-<p align="center">
-  <img src="img/08-05-2023.png" title="supervisão" alt="Supervisao Contabilidade e Consultoria">  
-</p>
-</a>
 
 ---
 
@@ -92,7 +83,7 @@ Olha essa dica incrível. Você pode passar um segundo parâmetro no comando git
 
 ### iniciar o repo
     git init
-    git remote add origin https://github.com/Supervisao-Contabilidade-e-Consultoria/sv000_projeto_name.git
+    git remote add origin https://github.com/eniodefarias/sv000_projeto_name.git
 
 
 
@@ -162,6 +153,6 @@ Olha essa dica incrível. Você pode passar um segundo parâmetro no comando git
 ---
 
 <p align="center">
-  <img src="icone/logo_super_1_circle.png" width="120" title="supervisão"  alt="Supervisao Contabilidade e Consultoria">  
+  <img src="https://lh4.googleusercontent.com/RuD7HbTficRN055V9jks9qGSy_X9QdAHoiQ0UChzF6SYp-TjbAtpRgBI2iEBE6px594Zao-s03EuzNv88HtuNEbmLEOe1_UIz1NFjvgvx1BlR3F6=w1280" width="120" title=""  alt="">  
 </p>
 
