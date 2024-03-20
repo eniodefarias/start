@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://lh4.googleusercontent.com/RuD7HbTficRN055V9jks9qGSy_X9QdAHoiQ0UChzF6SYp-TjbAtpRgBI2iEBE6px594Zao-s03EuzNv88HtuNEbmLEOe1_UIz1NFjvgvx1BlR3F6=w1280" width="120" title="" alt="">  
+  <img src="http://www.ideiadofuturo.com.br/img/logo_ideia.png" width="120" title="" alt="">  
 </p>
 
 
@@ -153,6 +153,6 @@ Olha essa dica incrível. Você pode passar um segundo parâmetro no comando git
 ---
 
 <p align="center">
-  <img src="https://lh4.googleusercontent.com/RuD7HbTficRN055V9jks9qGSy_X9QdAHoiQ0UChzF6SYp-TjbAtpRgBI2iEBE6px594Zao-s03EuzNv88HtuNEbmLEOe1_UIz1NFjvgvx1BlR3F6=w1280" width="120" title=""  alt="">  
+  <img src="http://www.ideiadofuturo.com.br/img/logo_ideia.png" width="120" title="" alt="">  
 </p>
 
